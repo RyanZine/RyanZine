@@ -9,7 +9,6 @@
 
 <p align="center">
   Desenvolvedor mobile e front-end · São Paulo, SP 🇧🇷<br>
-  Construindo apps que rodam de verdade, na mão de quem usa.
 </p>
 
 <!-- Links e Badges de Contato -->
