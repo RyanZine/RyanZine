@@ -83,9 +83,6 @@ Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, no **Smart
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanZine&theme=dracula&hide_border=true" alt="Sequência de Contribuições" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanZine&theme=dracula&hide_border=true" alt="Gráfico de Atividades" />
-</p>
 
 ---
 
