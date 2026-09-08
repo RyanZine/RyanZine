@@ -1,19 +1,27 @@
 <h1 align="center">Olá, eu sou o Ryan 👋</h1>
 
+<!-- 1. Texto de Apresentação Animado (Tema Dracula) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Desenvolvedor+Mobile+%26+Front-end;Construindo+apps+que+rodam+de+verdade;SmartRanch+%40+Mindloop" alt="Typing SVG" />
+  </a>
+</p>
+
 <p align="center">
   Desenvolvedor mobile e front-end · São Paulo, SP 🇧🇷<br>
   Construindo apps que rodam de verdade, na mão de quem usa.
 </p>
 
+<!-- Links e Badges de Contato -->
 <p align="center">
   <a href="https://portfolio-ryanzine.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
   </a>
   <a href="https://www.linkedin.com/in/SEU-LINKEDIN/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:zinedinepereira07@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
+    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
 </p>
 
@@ -48,8 +56,6 @@ Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, no **Smart
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 **Ferramentas**
 
@@ -59,11 +65,27 @@ Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, no **Smart
 
 ---
 
-## 📊 GitHub
+## 🟩 Quadro de Commits & Contribuições
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanZine&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanZine&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img src="https://ghchart.rshah.org/bd93f9/RyanZine" alt="Quadro de Commits do Ryan" />
+</p>
+
+---
+
+## 📊 Estatísticas e Atividades (Dracula Theme)
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanZine&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanZine&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanZine&theme=dracula&hide_border=true" alt="Sequência de Contribuições" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RyanZine&theme=dracula&hide_border=true" alt="Gráfico de Atividades" />
 </p>
 
 ---
@@ -73,7 +95,3 @@ Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, no **Smart
 - Aprofundando em **arquitetura de apps Flutter** e gerenciamento de estado
 - Estudando **streaming em tempo real** (WebRTC) e sincronização offline
 - Sempre aberto a trocar ideia sobre mobile, front-end e agro 🤝
-
-<p align="center">
-  <i>Bora construir algo? Me chama no LinkedIn ou no e-mail. 🚀</i>
-</p>
