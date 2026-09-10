@@ -1,17 +1,11 @@
-<h1 align="center">Olá, eu sou o Ryan 👋</h1>
-
-<!-- 1. Texto de Apresentação Animado (Tema Dracula) -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=BD93F9&center=true&vcenter=true&width=500&lines=Desenvolvedor+Mobile+%26+Front-end;Construindo+apps+que+rodam+de+verdade;SmartRanch+%40+Mindloop" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">Ryan Zinedine</h1>
 
 <p align="center">
-  Desenvolvedor mobile e front-end · São Paulo, SP 🇧🇷<br>
+  <strong>Desenvolvedor Mobile &amp; Front-end</strong><br>
+  Flutter · Dart · JavaScript · Supabase<br>
+  São Paulo, SP · Brasil
 </p>
 
-<!-- Links e Badges de Contato -->
 <p align="center">
   <a href="https://portfolio-ryanzine.vercel.app/">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfólio" />
@@ -26,19 +20,37 @@
 
 ---
 
-## 🚜 No que estou trabalhando
+## Sobre
 
-Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, no **SmartRanch** — um app mobile de gestão e monitoramento para o agronegócio.
+Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, onde trabalho no
+**SmartRanch** — um aplicativo de gestão e monitoramento para o agronegócio, publicado
+para Android e iOS.
 
-- 📱 App em **Flutter** para Android e iOS
-- 📹 Câmeras ao vivo com streaming **WebRTC/WHEP**
-- 🔔 Notificações push e atualizações em **tempo real** via Supabase Realtime
-- 🔐 Backend em **Supabase** (PostgreSQL + RLS) e serviços em **Python**
-- 🌎 App multilíngue: português, inglês e espanhol
+Meu dia a dia é aplicativo em produção: Flutter na frente, Supabase e Python atrás,
+com vídeo ao vivo e notificações em tempo real no meio. Esse código fica em
+repositórios privados da empresa. O que está público neste perfil é o meu trabalho
+de front-end — interfaces que construí por conta própria, todas no ar.
 
----
+## O que construo no SmartRanch
 
-## 🛠️ Tecnologias
+- **Aplicativo Flutter** para Android e iOS, multilíngue — português, inglês e espanhol
+- **Câmeras ao vivo** dentro do app, com streaming **WebRTC/WHEP**
+- **Notificações push** e atualização de tela em **tempo real** via Supabase Realtime
+- **Backend** em **Supabase** — PostgreSQL com Row Level Security — e serviços em **Python**
+- **Validação de alertas com visão computacional**: um agente que lê a mídia da
+  notificação com a **VLM da NVIDIA**, recortada pela região de interesse da câmera,
+  para classificar o alerta como verdadeiro ou falso e reduzir alarme falso no campo
+
+## Projetos públicos
+
+| Projeto | O que é | Stack | No ar |
+|---|---|---|---|
+| **[Portfolio](https://github.com/RyanZine/Portfolio)** | Meu portfólio — projetos, stack e trajetória, em layout dark responsivo | HTML · CSS · JS | [abrir](https://portfolio-ryanzine.vercel.app) |
+| **[reset_mind](https://github.com/RyanZine/reset_mind)** | Ambiente de foco: o fundo muda conforme a hora e o clima real da sua região (Open-Meteo), com pomodoro, rádio e sons de chuva e vento sintetizados no próprio navegador | JS · Web Audio · API | [abrir](https://reset-mind-eight.vercel.app) |
+| **[BrasaViva](https://github.com/RyanZine/BrasaViva)** | Site institucional de restaurante, com foco em identidade visual e responsividade | HTML · CSS · JS | [abrir](https://brasa-viva.vercel.app) |
+| **[Coffe-Peace](https://github.com/RyanZine/Coffe-Peace)** | Landing page de cafeteria com carrinho simulado no front-end | HTML · CSS · JS | [abrir](https://coffe-peace.vercel.app) |
+
+## Stack
 
 **Mobile**
 
@@ -55,6 +67,7 @@ Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, no **Smart
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 **Ferramentas**
 
@@ -62,32 +75,14 @@ Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, no **Smart
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
----
+## Estudando agora
 
-## 🟩 Quadro de Commits & Contribuições
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/bd93f9/RyanZine" alt="Quadro de Commits do Ryan" />
-</p>
+Arquitetura e gerenciamento de estado em Flutter, streaming em tempo real (WebRTC)
+e sincronização offline.
 
 ---
 
-## 📊 Estatísticas e Atividades (Dracula Theme)
-
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RyanZine&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanZine&layout=compact&theme=dracula&hide_border=true&locale=pt-br" alt="Linguagens mais usadas" />
+  Aberto a oportunidades e a trocar ideia sobre mobile, front-end e tecnologia no agro.<br>
+  <a href="mailto:zinedinepereira07@gmail.com">zinedinepereira07@gmail.com</a>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyanZine&theme=dracula&hide_border=true" alt="Sequência de Contribuições" />
-</p>
-
-
----
-
-## 🌱 Por onde ando agora
-
-- Aprofundando em **arquitetura de apps Flutter** e gerenciamento de estado
-- Estudando **streaming em tempo real** (WebRTC) e sincronização offline
-- Sempre aberto a trocar ideia sobre mobile, front-end e agro 🤝
