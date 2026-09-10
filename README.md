@@ -83,6 +83,5 @@ e sincronização offline.
 ---
 
 <p align="center">
-  Aberto a oportunidades e a trocar ideia sobre mobile, front-end e tecnologia no agro.<br>
   <a href="mailto:zinedinepereira07@gmail.com">zinedinepereira07@gmail.com</a>
 </p>
