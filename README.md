@@ -22,24 +22,23 @@
 
 ## Sobre
 
-Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, onde trabalho no
-**SmartRanch** — um aplicativo de gestão e monitoramento para o agronegócio, publicado
-para Android e iOS.
+Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, onde contribuo
+no **SmartRanch** — o aplicativo de gestão e monitoramento para o agronegócio da
+empresa, publicado para Android e iOS.
 
-Meu dia a dia é aplicativo em produção: Flutter na frente, Supabase e Python atrás,
-com vídeo ao vivo e notificações em tempo real no meio. Esse código fica em
-repositórios privados da empresa. O que está público neste perfil é o meu trabalho
-de front-end — interfaces que construí por conta própria, todas no ar.
+O código do produto fica em repositórios privados da Mindloop. O que está público
+neste perfil é o meu trabalho de front-end: interfaces que construí por conta
+própria, todas no ar.
 
-## O que construo no SmartRanch
+## O SmartRanch
+
+Produto da Mindloop, acompanhando **mais de 200 baias**. Somos dois no
+desenvolvimento mobile, e é no app que eu contribuo:
 
 - **Aplicativo Flutter** para Android e iOS, multilíngue — português, inglês e espanhol
 - **Câmeras ao vivo** dentro do app, com streaming **WebRTC/WHEP**
 - **Notificações push** e atualização de tela em **tempo real** via Supabase Realtime
 - **Backend** em **Supabase** — PostgreSQL com Row Level Security — e serviços em **Python**
-- **Validação de alertas com visão computacional**: um agente que lê a mídia da
-  notificação com a **VLM da NVIDIA**, recortada pela região de interesse da câmera,
-  para classificar o alerta como verdadeiro ou falso e reduzir alarme falso no campo
 
 ## Projetos públicos
 
