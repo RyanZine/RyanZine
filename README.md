@@ -1,8 +1,8 @@
 <h1 align="center">Ryan Zinedine</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Mobile &amp; Front-end</strong><br>
-  Flutter · Dart · JavaScript · Supabase<br>
+  <strong>Desenvolvedor Front-end</strong><br>
+  JavaScript · HTML · CSS · Node.js · Supabase<br>
   São Paulo, SP · Brasil
 </p>
 
@@ -32,13 +32,10 @@ projetos de IA aplicada —, tudo no ar.
 
 ## O SmartRanch
 
-Produto da Mindloop, acompanhando **mais de 200 baias**. Somos dois no
-desenvolvimento mobile, e é no app que eu contribuo:
+Produto da Mindloop, acompanhando **mais de 200 baias**:
 
-- **Aplicativo Flutter** para Android e iOS, multilíngue — português, inglês e espanhol
-- **Câmeras ao vivo** dentro do app, com streaming **WebRTC/WHEP**
-- **Notificações push** e atualização de tela em **tempo real** via Supabase Realtime
-- **Backend** em **Supabase** — PostgreSQL com Row Level Security — e serviços em **Python**
+- App para Android e iOS, multilíngue — português, inglês e espanhol
+- **Backend** em **Supabase**, com Row Level Security
 
 ## Projetos públicos
 
@@ -52,11 +49,6 @@ desenvolvimento mobile, e é no app que eu contribuo:
 
 ## Stack
 
-**Mobile**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-
 **Front-end**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -66,8 +58,6 @@ desenvolvimento mobile, e é no app que eu contribuo:
 **Back-end e dados**
 
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 **IA aplicada**
@@ -83,8 +73,8 @@ desenvolvimento mobile, e é no app que eu contribuo:
 
 ## Estudando agora
 
-Arquitetura e gerenciamento de estado em Flutter, streaming em tempo real (WebRTC)
-e sincronização offline — e Engenharia de IA Aplicada na UniPDS, onde nasceu o Classifier.
+Engenharia de IA Aplicada na UniPDS, onde nasceu o Classifier, e o CS50W, de
+Harvard, onde começo a estudar back-end.
 
 ---
 
