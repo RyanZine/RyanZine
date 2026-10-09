@@ -27,8 +27,8 @@ no **SmartRanch** — o aplicativo de gestão e monitoramento para o agronegóci
 empresa, publicado para Android e iOS.
 
 O código do produto fica em repositórios privados da Mindloop. O que está público
-neste perfil é o meu trabalho de front-end: interfaces que construí por conta
-própria, todas no ar.
+neste perfil é o que construo por conta própria — interfaces de front-end e
+projetos de IA aplicada —, tudo no ar.
 
 ## O SmartRanch
 
@@ -44,6 +44,7 @@ desenvolvimento mobile, e é no app que eu contribuo:
 
 | Projeto | O que é | Stack | No ar |
 |---|---|---|---|
+| **[Classifier](https://github.com/RyanZine/Projects/tree/main/classifier)** | Recomendação de trilhas de estudo: uma rede neural em TensorFlow.js classifica o perfil do aluno e uma LLM com escopo fechado (Gemini) monta a trilha só com o catálogo da plataforma, com retreino a partir do feedback dos alunos | Node.js · TensorFlow.js · Fastify · Gemini | [abrir](https://ryanzine.github.io/Projects/) |
 | **[Portfolio](https://github.com/RyanZine/Portfolio)** | Meu portfólio — projetos, stack e trajetória, em layout dark responsivo | HTML · CSS · JS | [abrir](https://portfolio-ryanzine.vercel.app) |
 | **[reset_mind](https://github.com/RyanZine/reset_mind)** | Ambiente de foco: o fundo muda conforme a hora e o clima real da sua região (Open-Meteo), com pomodoro, rádio e sons de chuva e vento sintetizados no próprio navegador | JS · Web Audio · API | [abrir](https://reset-mind-eight.vercel.app) |
 | **[BrasaViva](https://github.com/RyanZine/BrasaViva)** | Site institucional de restaurante, com foco em identidade visual e responsividade | HTML · CSS · JS | [abrir](https://brasa-viva.vercel.app) |
@@ -67,6 +68,12 @@ desenvolvimento mobile, e é no app que eu contribuo:
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**IA aplicada**
+
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 
 **Ferramentas**
 
@@ -77,7 +84,7 @@ desenvolvimento mobile, e é no app que eu contribuo:
 ## Estudando agora
 
 Arquitetura e gerenciamento de estado em Flutter, streaming em tempo real (WebRTC)
-e sincronização offline.
+e sincronização offline — e Engenharia de IA Aplicada na UniPDS, onde nasceu o Classifier.
 
 ---
 
