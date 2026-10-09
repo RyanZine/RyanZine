@@ -27,8 +27,8 @@ no **SmartRanch** — o aplicativo de gestão e monitoramento para o agronegóci
 empresa, publicado para Android e iOS.
 
 O código do produto fica em repositórios privados da Mindloop. O que está público
-neste perfil é o que construo por conta própria — interfaces de front-end e
-projetos de IA aplicada —, tudo no ar.
+neste perfil são os meus projetos de front-end e de IA aplicada, além de um
+projeto em equipe do curso que fiz como Jovem Aprendiz.
 
 ## O SmartRanch
 
@@ -43,9 +43,8 @@ Produto da Mindloop, acompanhando **mais de 200 baias**:
 |---|---|---|---|
 | **[Classifier](https://github.com/RyanZine/Projects/tree/main/classifier)** | Recomendação de trilhas de estudo: uma rede neural em TensorFlow.js classifica o perfil do aluno e uma LLM com escopo fechado (Gemini) monta a trilha só com o catálogo da plataforma, com retreino a partir do feedback dos alunos | Node.js · TensorFlow.js · Fastify · Gemini | [abrir](https://ryanzine.github.io/Projects/) |
 | **[Portfolio](https://github.com/RyanZine/Portfolio)** | Meu portfólio — projetos, stack e trajetória, em layout dark responsivo | HTML · CSS · JS | [abrir](https://portfolio-ryanzine.vercel.app) |
-| **[reset_mind](https://github.com/RyanZine/reset_mind)** | Ambiente de foco: o fundo muda conforme a hora e o clima real da sua região (Open-Meteo), com pomodoro, rádio e sons de chuva e vento sintetizados no próprio navegador | JS · Web Audio · API | [abrir](https://reset-mind-eight.vercel.app) |
-| **[BrasaViva](https://github.com/RyanZine/BrasaViva)** | Site institucional de restaurante, com foco em identidade visual e responsividade | HTML · CSS · JS | [abrir](https://brasa-viva.vercel.app) |
 | **[Coffe-Peace](https://github.com/RyanZine/Coffe-Peace)** | Landing page de cafeteria com carrinho simulado no front-end | HTML · CSS · JS | [abrir](https://coffe-peace.vercel.app) |
+| **[Projeto-PP](https://github.com/RyanZine/Projeto-PP)** | Pequenos Programadores: site de cursos de programação para crianças, feito em equipe de sete pessoas no curso da Rede Despertar Sonhos | HTML · CSS · JS | — |
 
 ## Stack
 
