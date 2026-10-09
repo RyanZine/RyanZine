@@ -22,9 +22,9 @@
 
 ## Sobre
 
-Sou desenvolvedor na **[Mindloop](https://github.com/Mindloop2025)**, onde contribuo
-no **SmartRanch** — o aplicativo de gestão e monitoramento para o agronegócio da
-empresa, publicado para Android e iOS.
+Trabalho na **[Mindloop](https://github.com/Mindloop2025)**, no **SmartRanch** — a
+plataforma de monitoramento por câmeras para o agronegócio da empresa, com app
+para Android e iOS.
 
 O código do produto fica em repositórios privados da Mindloop. O que está público
 neste perfil são os meus projetos de front-end e de IA aplicada, além de um
@@ -32,10 +32,12 @@ projeto em equipe do curso que fiz como Jovem Aprendiz.
 
 ## O SmartRanch
 
-Produto da Mindloop, acompanhando **mais de 200 baias**:
+Produto da Mindloop, acompanhando **mais de 200 baias**. No dia a dia:
 
-- App para Android e iOS, multilíngue — português, inglês e espanhol
-- **Backend** em **Supabase**, com Row Level Security
+- Cadastro de novos clientes na plataforma: grupos, perfis e câmeras
+- Configuração das câmeras e da transmissão (**fluxo RTMP**) para que as imagens cheguem ao app
+- Duas páginas web feitas com apoio de IA (Claude): o fluxo de contratação e o cadastro de câmeras pelo próprio cliente
+- Consultas e testes no banco de dados para apoiar a aplicação
 
 ## Projetos públicos
 
