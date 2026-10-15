@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Do+c%C3%B3digo+%C3%A0+interface.;JavaScript+%C2%B7+Node.js+%C2%B7+Supabase;IA+aplicada+com+TensorFlow.js+%2B+Gemini" alt="Do código à interface." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=900&color=22D3EE&center=true&vCenter=true&width=560&lines=Do+c%C3%B3digo+%C3%A0+interface.;HTML+%C2%B7+CSS+%C2%B7+JavaScript;Dispon%C3%ADvel+para+vagas+front-end+j%C3%BAnior" alt="Do código à interface." />
 </p>
 
 <p align="center">
@@ -16,21 +16,21 @@
 
 ## // sobre
 
-Trabalho na **[Mindloop](https://github.com/Mindloop2025)**, no **SmartRanch** — a
-plataforma de monitoramento por câmeras para o agronegócio da empresa, com app
-para Android e iOS.
+Desenvolvedor front-end júnior em São Paulo, construindo com HTML, CSS e
+JavaScript. **Procuro minha primeira vaga como dev**, remota ou híbrida em São
+Paulo, com início imediato.
 
-O código do produto fica em repositórios privados da Mindloop. O que está público
-neste perfil são os meus projetos de front-end e de IA aplicada, além de um
-projeto em equipe do curso que fiz como Jovem Aprendiz.
+Aqui estão os meus projetos de front-end e de IA aplicada, além de um projeto em
+equipe do curso que fiz como Jovem Aprendiz.
 
-## // smartranch
+## // experiência
 
-Produto da Mindloop, acompanhando **mais de 200 baias**. No dia a dia:
+**Assistente de TI na Mindloop** (jul–out/2026), no SmartRanch, uma plataforma de
+monitoramento por câmeras para o agronegócio:
 
 - Cadastro de novos clientes na plataforma: grupos, perfis e câmeras
 - Configuração das câmeras e da transmissão (**fluxo RTMP**) para que as imagens cheguem ao app
-- Duas páginas web feitas com apoio de IA (Claude): o fluxo de contratação e o cadastro de câmeras pelo próprio cliente
+- Duas páginas web feitas com apoio de IA: o fluxo de contratação e o cadastro de câmeras pelo próprio cliente
 - Consultas e testes no banco de dados para apoiar a aplicação
 
 ## // projetos
@@ -38,7 +38,7 @@ Produto da Mindloop, acompanhando **mais de 200 baias**. No dia a dia:
 | Projeto | O que é | Stack | No ar |
 |---|---|---|---|
 | **[Classifier](https://github.com/RyanZine/Projects/tree/main/classifier)** | Recomendação de trilhas de estudo: uma rede neural em TensorFlow.js classifica o perfil do aluno e uma LLM com escopo fechado (Gemini) monta a trilha só com o catálogo da plataforma, com retreino a partir do feedback dos alunos | Node.js · TensorFlow.js · Fastify · Gemini | [abrir](https://ryanzine.github.io/Projects/) |
-| **[Portfolio](https://github.com/RyanZine/Portfolio)** | Meu portfólio — projetos, stack e trajetória, em layout dark responsivo | HTML · CSS · JS | [abrir](https://portfolio-ryanzine.vercel.app) |
+| **[Portfolio](https://github.com/RyanZine/Portfolio)** | Meu portfólio — projetos, stack e trajetória, em layout dark | HTML · CSS · JS | [abrir](https://portfolio-ryanzine.vercel.app) |
 | **[Coffe-Peace](https://github.com/RyanZine/Coffe-Peace)** | Landing page de cafeteria com carrinho simulado no front-end | HTML · CSS · JS | [abrir](https://coffe-peace.vercel.app) |
 | **[Projeto-PP](https://github.com/RyanZine/Projeto-PP)** | Pequenos Programadores: site de cursos de programação para crianças, feito em equipe de sete pessoas no curso da Rede Despertar Sonhos | HTML · CSS · JS | — |
 
@@ -48,12 +48,13 @@ Produto da Mindloop, acompanhando **mais de 200 baias**. No dia a dia:
   <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=22D3EE" alt="JavaScript" />
   <img src="https://img.shields.io/badge/HTML5-0B0B0B?style=for-the-badge&logo=html5&logoColor=22D3EE" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS-0B0B0B?style=for-the-badge&logo=css&logoColor=22D3EE" alt="CSS" />
-  <img src="https://img.shields.io/badge/Node.js-0B0B0B?style=for-the-badge&logo=nodedotjs&logoColor=22D3EE" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Supabase-0B0B0B?style=for-the-badge&logo=supabase&logoColor=22D3EE" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=22D3EE" alt="Git" />
   <br>
+  <sub>estudando</sub>
+  <br>
+  <img src="https://img.shields.io/badge/Node.js-0B0B0B?style=for-the-badge&logo=nodedotjs&logoColor=A78BFA" alt="Node.js" />
   <img src="https://img.shields.io/badge/TensorFlow.js-0B0B0B?style=for-the-badge&logo=tensorflow&logoColor=A78BFA" alt="TensorFlow.js" />
   <img src="https://img.shields.io/badge/Gemini-0B0B0B?style=for-the-badge&logo=googlegemini&logoColor=A78BFA" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=A78BFA" alt="Git" />
 </p>
 
 ## // atividade
@@ -65,8 +66,8 @@ Produto da Mindloop, acompanhando **mais de 200 baias**. No dia a dia:
 
 ## // estudando agora
 
-Engenharia de IA Aplicada na UniPDS, onde nasceu o Classifier, e o CS50W, de
-Harvard, onde começo a estudar back-end.
+Engenharia de IA Aplicada na UniPDS, onde nasceu o Classifier, e layout
+responsivo com CSS.
 
 ---
 
